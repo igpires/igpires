@@ -1,8 +1,8 @@
 # Olá, eu sou o Igor
 
-:computer: Desenvolvedor fullstack
+:computer: Desenvolvedor Backend e nas horas vagas Fullstack
 
-:books: Atualmento estou estudando Rails for API-only
+:books: Atualmente estou estudando Rails for API-only
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igpires&theme=dark&show_icons=true)
 
